@@ -1,0 +1,40 @@
+_repo: The-Mayas-the-Sources-of-Their-History--13-Dr.-Le-Plongeon-in-Yucatan-His-Account-of-Discover__29723
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Le Plongeon, Augustus
+    aliases:
+    - LePlongeon, Augustus
+    - Plongeon, Augustus Le
+    birthdate: 1826
+    deathdate: 1908
+    gutenberg_agent_id: '34112'
+    url: http://www.gutenberg.org/2009/agents/34112
+    wikipedia: http://en.wikipedia.org/wiki/Augustus_Le_Plongeon
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Salisbury, Stephen
+    birthdate: 1835
+    deathdate: 1905
+    gutenberg_agent_id: '34109'
+    url: http://www.gutenberg.org/2009/agents/34109
+description: ''
+gutenberg_issued: '2009-08-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29723'
+  lccn: 09017542
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Yucatán (Mexico : State) -- Antiquities'
+- !lcc 'F1401'
+- !lcsh 'Mayas -- History'
+title: "The Mayas, the Sources of Their History\r\nDr. Le Plongeon in Yucatan, His\
+  \ Account of Discoveries"
+url: http://www.gutenberg.org/ebooks/29723
