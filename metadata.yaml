@@ -22,6 +22,8 @@ creator:
     gutenberg_agent_id: '34109'
     url: http://www.gutenberg.org/2009/agents/34109
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29723#The-Mayas-the-Sources-of-Their-History--13-Dr.-Le-Plongeon-in-Yucatan-His-Account-of-Discover_
 gutenberg_issued: '2009-08-18'
 gutenberg_type: Text
 identifiers:
